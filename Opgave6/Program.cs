@@ -6,13 +6,11 @@ namespace Opgave6
     {
         static void Main(string[] args)
         {
-            int[] inputArray = new int[] { 6, 3, 8, 9, 7 };
-            int numberOfRightSteps = 3;
+            int[] inputArray = new int[] { 3, 8, 9, 7, 6 }; //Expected Output [7,6,3,8,9] with number 2
+            int numberOfRightSteps = 2;
             MethodExcercise method = new MethodExcercise();
-            foreach (int num in method.RotateRight(inputArray,numberOfRightSteps))
-            {
-                Console.Write(num);
-            }
+            method.RotateRight(inputArray, numberOfRightSteps, inputArray.Length);
+            method.PrintNumbers(inputArray, inputArray.Length);
             Console.ReadLine();
         }
     }

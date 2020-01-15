@@ -6,22 +6,31 @@ namespace Opgave6
 {
     class MethodExcercise
     {
-        public int[] RotateRight(int[] inputArr,int numberOfSteps)
+        public void RotateRight(int[] inputArr,int numberOfSteps, int length)
         {
-            int rotateNum = numberOfSteps;
-            int[] outputArr = new int[inputArr.Length];
-            for (int i = 0; i < inputArr.Length -1; i++)
+
+            ReverseArr(inputArr, 0, length - 1);
+            ReverseArr(inputArr, 0, numberOfSteps - 1);
+            ReverseArr(inputArr, numberOfSteps, length - 1);
+
+        }
+        static void ReverseArr(int[] input, int start, int end)
+        {
+            while (start < end)
             {
-                if (i + (inputArr.Length -1) <= inputArr.Length)
-                {
-                    outputArr[i + numberOfSteps] = inputArr[i];
-                }
-                else
-                {
-                    outputArr[]
-                }
+                int temp = input[start];
+                input[start] = input[end];
+                input[end] = temp;
+                start++;
+                end--;
             }
-            return outputArr;
+        }
+        public void PrintNumbers(int[] inputarr, int length)
+        {
+            for (int i = 0; i < length; i++)
+            {
+                Console.Write(inputarr[i]);
+            }
         }
     }
 }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HFGF\\source\\repos\\Opgave6\\Opgave6\\Opgave6.csproj": {}
+    "C:\\Users\\xycad\\source\\repos\\Opgave6\\Opgave6\\Opgave6.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HFGF\\source\\repos\\Opgave6\\Opgave6\\Opgave6.csproj": {
+    "C:\\Users\\xycad\\source\\repos\\Opgave6\\Opgave6\\Opgave6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HFGF\\source\\repos\\Opgave6\\Opgave6\\Opgave6.csproj",
+        "projectUniqueName": "C:\\Users\\xycad\\source\\repos\\Opgave6\\Opgave6\\Opgave6.csproj",
         "projectName": "Opgave6",
-        "projectPath": "C:\\Users\\HFGF\\source\\repos\\Opgave6\\Opgave6\\Opgave6.csproj",
-        "packagesPath": "C:\\Users\\HFGF\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HFGF\\source\\repos\\Opgave6\\Opgave6\\obj\\",
+        "projectPath": "C:\\Users\\xycad\\source\\repos\\Opgave6\\Opgave6\\Opgave6.csproj",
+        "packagesPath": "C:\\Users\\xycad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\xycad\\source\\repos\\Opgave6\\Opgave6\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HFGF\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\xycad\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
