@@ -1,0 +1,11 @@
+C:\Users\HFGF\source\repos\Opgave6\Opgave6\bin\Debug\netcoreapp3.1\Opgave6.exe
+C:\Users\HFGF\source\repos\Opgave6\Opgave6\bin\Debug\netcoreapp3.1\Opgave6.deps.json
+C:\Users\HFGF\source\repos\Opgave6\Opgave6\bin\Debug\netcoreapp3.1\Opgave6.runtimeconfig.json
+C:\Users\HFGF\source\repos\Opgave6\Opgave6\bin\Debug\netcoreapp3.1\Opgave6.runtimeconfig.dev.json
+C:\Users\HFGF\source\repos\Opgave6\Opgave6\bin\Debug\netcoreapp3.1\Opgave6.dll
+C:\Users\HFGF\source\repos\Opgave6\Opgave6\bin\Debug\netcoreapp3.1\Opgave6.pdb
+C:\Users\HFGF\source\repos\Opgave6\Opgave6\obj\Debug\netcoreapp3.1\Opgave6.csprojAssemblyReference.cache
+C:\Users\HFGF\source\repos\Opgave6\Opgave6\obj\Debug\netcoreapp3.1\Opgave6.AssemblyInfoInputs.cache
+C:\Users\HFGF\source\repos\Opgave6\Opgave6\obj\Debug\netcoreapp3.1\Opgave6.AssemblyInfo.cs
+C:\Users\HFGF\source\repos\Opgave6\Opgave6\obj\Debug\netcoreapp3.1\Opgave6.dll
+C:\Users\HFGF\source\repos\Opgave6\Opgave6\obj\Debug\netcoreapp3.1\Opgave6.pdb
